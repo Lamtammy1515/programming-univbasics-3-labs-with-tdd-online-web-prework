@@ -7,6 +7,9 @@ sum = 10
 
 difference = 0 
 
+product = 25 
+
+
   first_number+second_number
   
   
