@@ -1,5 +1,7 @@
-# Add your variables here
+# Add your variables 
 
-def first_number 
+first_number = 5
+second_number = 5
+
+first_number * second_number
   
-end 
