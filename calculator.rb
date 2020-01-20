@@ -5,6 +5,6 @@ second_number = 5
 
 
 
-  first_number+second_number=sum
+  first_number+second_number
   
-  sum = 10 
+  
