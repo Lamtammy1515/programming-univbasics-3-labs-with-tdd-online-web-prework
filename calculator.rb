@@ -5,8 +5,6 @@ second_number = 5
 
 
 
-def sum
-  first_number+second_number
-end
+  first_number+second_number=sum
   
-sum 
+  sum = 10 
