@@ -11,6 +11,5 @@ product = 25
 
 quotient = 1 
 
-  first_number+second_number
-  
+
   
